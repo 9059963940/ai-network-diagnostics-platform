@@ -1,7 +1,4 @@
 # AI-Powered Network Diagnostics & Self-Healing Platform
-## Dashboard Preview
-
-![Dashboard Preview](screenshots/full-dashboard.png)
 
 An AI-driven telecom network monitoring platform designed for real-time diagnostics, anomaly detection, network visualization, and automated recovery actions.
 
