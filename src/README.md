@@ -157,5 +157,5 @@ http://localhost:3000/dashboard
 
 ## Author
 
-Deepika Seelam
+Deepika Seelam\\
 AI & Software Engineering Enthusiast
